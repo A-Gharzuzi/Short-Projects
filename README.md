@@ -1,5 +1,5 @@
 # Short-Projects
 
-Practical projects that anyone can solve in any programming language. 
+Practical projects in C++ and other languages.
 
 These projects are divided in multiple categories, and each category has its own folder.
