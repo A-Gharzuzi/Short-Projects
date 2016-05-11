@@ -14,7 +14,8 @@ void fibonacci(int N)
 			f = f1 + f2;
 			f1 = f2;
 			f2 = f;
-			cout << f << ", ";																	}
+			cout << f << ", ";
+		}
 	}
 }
 
